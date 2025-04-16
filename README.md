@@ -31,6 +31,8 @@ The Open Source community is precious. I spend a lot of time pushing new ideas a
 Here are my main current projects:
 
 - [germainlefebvre4/libtado](https://github.com/germainlefebvre4/libtado): Python lib to pilot your Tado Smart Thermostat.
+- [germainlefebvre4/cvwonder](https://github.com/germainlefebvre4/cvwonder): Generate your CV from YAML to Wonder.
+- [germainlefebvre4/S3Streamer](https://github.com/germainlefebvre4/S3Streamer): List and play your videos hosted on AWS S3 (or S3-compatible storage).
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff): SQL query linter compatible with Jinja and DBT.
 - [germainlefebvre4/cloudia-project](https://github.com/germainlefebvre4/cloudia-project): Dashboard to help you monitor Billing and CO2 Usage on your multiple Cloud Providers.
 - germainlefebvre4/bspauto: Platform to track the evolution of Car Rental prices and alert when a good deals is facing.
